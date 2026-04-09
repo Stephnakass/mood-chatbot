@@ -1,4 +1,4 @@
-# Mood Chatbot (Python)
+# Mood Chatbot
 
 ## Overview
 This project is a command-line Python chatbot that asks for the user's name, responds to mood inputs, and simulates conversation using typing effects, thinking pauses, and randomized responses.
@@ -29,8 +29,6 @@ Stephanie, Maybe a nap is calling your name (￣o￣) zzZ
 
 ## Technologies Used
 - Python 3
-- random
-- time
 
 ## Purpose
 This project was built to practise core Python concepts including functions, loops, conditionals, string handling, user input, and basic user experience design.
