@@ -26,6 +26,7 @@ How are you feeling today, Stephanie?
 tired
 Thinking...
 Stephanie, Maybe a nap is calling your name (￣o￣) zzZ
+```
 
 ## Technologies Used
 - Python 3
